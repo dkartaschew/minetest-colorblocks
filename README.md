@@ -11,9 +11,13 @@ For Minetest 0.4.14 and later
 #### Optional: 
 * moreblocks
 
-Licenses: Code MIT. Media (textures) CC BY-SA 3.0
+## Licenses: 
+
+Code MIT. Media (textures) CC BY-SA 3.0
 
 See license.txt for license information
+
+## Description
 
 Adds colored steel blocks to the game.
 
