@@ -3,9 +3,16 @@ ColorBlocks
 
 D.Kartaschew
 For Minetest 0.4.14 and later
-Depends: default, dye.
-Optional: moreblocks
+
+### Depends: 
+* default
+* dye.
+
+#### Optional: 
+* moreblocks
+
 Licenses: Code MIT. Media (textures) CC BY-SA 3.0
+
 See license.txt for license information
 
 Adds colored steel blocks to the game.
